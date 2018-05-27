@@ -1,6 +1,6 @@
 # 基于AFNetworking分装的网络请求
 
-## GET  POST
+## GET  POST
 
 GET、POST使用
 
